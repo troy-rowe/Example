@@ -1,0 +1,25 @@
+#heading-1 {
+  color: pink;
+  font-family: "Momo Signature", cursive;
+}
+
+#heading-2 {
+  color: purple;
+  font-family: "Momo Signature", cursive;
+}
+
+#paragraph {
+  color: blue;
+  font-family: "Momo Signature", cursive;
+}
+
+#anchor{
+  color: red;
+  font-family: "Momo Signature", cursive;
+  font-size: small;
+}
+
+#heading-3 {
+  color: limegreen;
+  font-family: "Momo Signature", cursive;
+}
